@@ -1,0 +1,10 @@
+<div class="row my-4">
+            <div class="col-lg-3 top col-md-6 my-4 d-flex  justify-content-center flex-column align-items-center">
+                <div class="bg3 d-flex justify-content-center align-items-center">
+                    <img src="img/PikPng 1.png" class="img-fluid" alt="">
+                </div>
+                
+                <p>Nike Leron X1</p>
+                <p class="price">&#8377;75.00</p>
+                <button type="button">Add To Cart<i class="fas fa-shopping-bag ms-2"></i></button>
+            </div>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+
+    <div class="nav">
+        <nav>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+              <i class="fas fa-bars"></i>
+            </label>
+            <ul>
+              <li><a class="active" href="#">Home</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Services</a></li>
+              <li><a href="#">Contact</a></li>
+              <li><a href="#">Feedback</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container">
+    <div class="contact-section">
+        <div class="contact-info">
+            <div><i class="fas fa-map-marker-alt"> Address, City, Country</i></div>
+            <div><i class="fas fa-envelope"> buddy@gmail.com</i></div>
+            <div><i class="fas fa-phone"> +91 XXXXXXXXXX</i></div>
+            <div><i class="fas fa-clock"> 24*7 support available</i></div>
+        </div>
+
+        <div class="contact-form">
+            <h2>Contact Us</h2>
+            <form class="contact" action="" method="post">
+                <input type="text" name="name" class="text-box" placeholder="Your Name">
+                <input type="number" name="phn" class="text-box" placeholder="Your Mobile Number">
+                <textarea name="message" rows="5" cols="90" placeholder="Whats the Message?"></textarea>
+               
+                
+            </form>
+            <button id="button" class="send-btn"">Send</button>
+        </div>
+    </div>
+</div>
+    <script src="script.js"></script>
+    
+</body>
+</html>

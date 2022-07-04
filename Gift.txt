@@ -1,0 +1,47 @@
+{
+     word: "Saree",
+     hint:"Whenever you wear my heart beats faster"
+ },
+
+{ 
+     word: "Love",
+     hint: "I _____ you the most."
+},
+
+{
+     word: "Hot",
+     hint: "You sweat because you are"
+},
+
+{ 
+      word:"Teddy",
+      hint:"In future, our bed will be full of"
+ },
+
+{
+     word:"Cute",
+     hint:" no one is as ___ as you"
+ },
+
+{ 
+     word:"Forever",
+     hint :" Be mine ___"
+},
+
+{ 
+    word:"
+}
+
+
+
+
+
+
+Footer- 
+Created With ♥️ for my ♥️ ©Shubhanjan 
+
+footer {
+    background-color: off-white;
+    text-align: center;
+    
+}
